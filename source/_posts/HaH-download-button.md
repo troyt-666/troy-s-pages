@@ -1,3 +1,8 @@
+---
+title: HaH_download_button
+date: 2024-10-25 03:49:24
+tags:
+---
 Trying to create my own LANraragi collection, I was bulk downloading from E-Hentai recently.
 I first tried to create a simple [Tempermonkey script](https://greasyfork.org/scripts/510654-exhentai-archive-download-button) to allow me download the archive using the given archive download directly from the search page.
 
