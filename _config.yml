@@ -104,7 +104,7 @@ deploy:
   type: ''
 
 marked:
-  gfm: true
+  gfm: false
   pedantic: false
   breaks: true
   smartLists: true
